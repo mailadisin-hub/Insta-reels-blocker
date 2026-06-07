@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
                 binding.statusIcon.text = "✅"
                 binding.statusTitle.text = "Reels are blocked"
                 binding.statusMessage.text =
-                    "The Reels tab in Instagram is blocked. Tapping it will bounce you straight back."
+                    "The Reels button in Instagram is hidden under a black box. You can't tap it."
                 binding.btnOpenAccessibility.isEnabled = false
             }
         }

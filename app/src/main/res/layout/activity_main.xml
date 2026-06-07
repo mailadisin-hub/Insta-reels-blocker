@@ -33,7 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
-            android:text="Tapping Reels in Instagram bounces you back instantly."
+            android:text="The Reels button in Instagram is hidden under a black box so you can&#39;t tap it."
             android:textColor="@color/text_secondary"
             android:textSize="14sp" />
 
