@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Insta Reels Blocker</string>
+    <string name="service_label">Insta Reels Blocker</string>
+    <string name="service_description">Monitors Instagram to block the Reels tab. No data is stored or sent.</string>
+</resources>
